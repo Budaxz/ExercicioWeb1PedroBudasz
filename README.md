@@ -16,9 +16,8 @@ Como é um projeto puramente estático (Vanilla), não é necessário instalar n
    ```bash
    git clone <URL_DO_SEU_REPOSITORIO>
 Abra a pasta perfil-geek.
-```
 
 Dê um duplo clique no arquivo index.html para abri-lo diretamente no seu navegador de preferência.
 
 👨‍💻 Autor
-Desenvolvido por Pedro.
+Desenvolvido por Pedro Budasz.
