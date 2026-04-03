@@ -14,7 +14,7 @@ Como é um projeto puramente estático (Vanilla), não é necessário instalar n
 
 1. Clone este repositório para a sua máquina:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone <(https://github.com/Budaxz/ExercicioWeb1PedroBudasz.git)>
 Abra a pasta perfil-geek.
 
 Dê um duplo clique no arquivo index.html para abri-lo diretamente no seu navegador de preferência.
